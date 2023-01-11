@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "homepage": "https://marcoandre1.github.io/website_example",
-  "dependencies": {
-    "gh-pages": "^2.0.1"
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
